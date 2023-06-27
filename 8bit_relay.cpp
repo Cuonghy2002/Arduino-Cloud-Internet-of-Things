@@ -1,4 +1,5 @@
-
+//Author Cuong 
+//74HC595
 const int latchPin = 8;   // Pin ST_CP (Pin 12 trên IC 74HC595)
 const int clockPin = 9;   // Pin SH_CP (Pin 11 trên IC 74HC595)
 const int dataPin = 10;   // Pin DS (Pin 14 trên IC 74HC595)
